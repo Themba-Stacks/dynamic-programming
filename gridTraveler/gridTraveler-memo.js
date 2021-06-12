@@ -10,4 +10,5 @@ function gridTraveler(n,m, memo={}) {
 
 console.log(gridTraveler(3,2));
 console.log(gridTraveler(3,3));
-console.log(gridTraveler(18,18));
+console.log(gridTraveler(18,18))
+console.log(gridTraveler(50,50))
